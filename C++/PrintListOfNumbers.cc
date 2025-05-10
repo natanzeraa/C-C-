@@ -7,7 +7,7 @@ int main() {
     vector<int> nums = {1, 2,3};
 
     for(int num : nums) {
-        cout << num << "\n";
+        cout << num << endl;
     }
 
     return 0;
